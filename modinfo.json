@@ -1,0 +1,10 @@
+{
+    "type": "content",
+    "side": "server",
+    "modid": "recyclablebags",
+    "name": "Recyclable Bags",
+    "description" : "Allows for recycling of bags.",
+    "authors": ["NotPossible"],
+    "version": "1.0.0",
+    "dependencies": {}
+}

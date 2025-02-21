@@ -1,0 +1,26 @@
+[
+    {
+        "name": "deconstruct hunter backpack with knife",
+        "ingredientPattern": "KB",
+        "ingredients": {
+            "K": { "type": "item", "code": "game:knife-*", "isTool": true },
+            "B": { "type": "item", "code": "game:hunterbackpack" }
+        },
+        "width": 2,
+        "height": 1,
+        "shapeless": true,
+        "output": { "type": "item", "code": "game:hide-pelt-medium", "quantity": 1 }
+    },
+    {
+        "name": "deconstruct hunter backpack with shears",
+        "ingredientPattern": "KB",
+        "ingredients": {
+            "K": { "type": "item", "code": "game:shears-*", "isTool": true },
+            "B": { "type": "item", "code": "game:hunterbackpack" }
+        },
+        "width": 2,
+        "height": 1,
+        "shapeless": true,
+        "output": { "type": "item", "code": "game:hide-pelt-medium", "quantity": 1 }
+    }
+]
